@@ -1,0 +1,5 @@
+name: KuveruCosmetics
+version: '1.0'
+main: com.system32.kuveruCosmetics.KuveruCosmetics
+api-version: '1.21'
+authors: [System32]
